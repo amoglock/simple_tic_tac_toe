@@ -67,10 +67,3 @@ def gameplay():
 
 
 _game_state(user_input)
-
-
-
-
-
-
-
